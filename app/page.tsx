@@ -485,7 +485,7 @@ export default function HomePage() {
                     <Phone className="h-4 w-4" />
                   </div>
                   <a href="tel:+94772620357" className="hover:text-white transition-colors duration-300">
-                    +94 772620357
+                    
                   </a>
                 </div>
 
